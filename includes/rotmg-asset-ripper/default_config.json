@@ -1,0 +1,5 @@
+{
+	"ar": "./decompiler/AssetExtractor-linux-x64",
+	"resources": "/path/to/rotmg-data/resources.assets",
+	"dest": "./data"
+}
