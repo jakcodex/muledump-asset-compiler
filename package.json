@@ -1,0 +1,10 @@
+{
+  "name": "muledump-asset-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jakcodex",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}

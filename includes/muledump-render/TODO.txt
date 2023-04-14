@@ -1,0 +1,20 @@
+# nice to have
+parse manifest.xml to get tile size instead of guessing by filename
+don't rely on haizor to get the data
+
+# other things to do
+look at Xythium's files
+clean up code
+pullreq
+
+
+
+
+
+# autogenerate if possible:
+lib/media/itemsilhouettes.png
+lib/media/itemsilhouettes_25p.png
+
+# stuff that needs manual updating:
+slotmap.js
+lib/setuptools/src/setuptools.js::defaultSlotOrder
